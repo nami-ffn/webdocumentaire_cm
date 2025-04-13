@@ -2493,34 +2493,34 @@ klynt.data = {
             "duration": 223.338,
             "color": "rgba(0,0,0,1)",
             "externalVideos": [
-    {
-        "autoplay": true,
-        "verticalAlign": "middle",
-        "dataend": "03:43.34",
-        "poster": "https://img.youtube.com/vi/EEQgaDA1IMY/maxresdefault.jpg",
-        "zIndex": 27,
-        "id": "F8103E72-D757-7253-43AA-A9B42D58AA0C",
-        "mediaHeight": 360,
-        "transitionIn": {
-            "type": "fade",
-            "duration": "1"
-        },
-        "externalId": "EEQgaDA1IMY",
-        "player": true,
-        "horizontalAlign": "center",
-        "syncMaster": true,
-        "volume": 1,
-        "name": "ITW-Prejuges",
-        "url": "https://www.youtube.com/embed/EEQgaDA1IMY",
-        "loop": false,
-        "mediaWidth": 640,
-        "platform": "youtube",
-        "clipBegin": 0,
-        "duration": "03:43.34",
-        "databegin": "00:00.00",
-        "centerX": 41,
-        "centerY": 11
-    }
+  {
+    "autoplay": false,
+    "verticalAlign": "middle",
+    "dataend": "03:43.34",
+    "poster": "https://img.youtube.com/vi/EEQgaDA1IMY/maxresdefault.jpg",
+    "zIndex": 27,
+    "id": "F8103E72-D757-7253-43AA-A9B42D58AA0C",
+    "mediaHeight": 365,
+    "mediaWidth": 648.99,
+    "transitionIn": {
+      "type": "fade",
+      "duration": "1"
+    },
+    "externalId": "EEQgaDA1IMY",
+    "player": true,
+    "horizontalAlign": "center",
+    "verticalAlign": "middle",
+    "fitToWindow": false,
+    "syncMaster": true,
+    "volume": 1,
+    "name": "ITW-Prejuges",
+    "url": "https://www.youtube.com/embed/EEQgaDA1IMY",
+    "loop": false,
+    "scaleMode": "zoom",
+    "clipBegin": 0,
+    "duration": "03:43.34",
+    "databegin": "00:00.00"
+  }
 ],
             "id": "F4B1F2E2-8297-A3B7-5ACE-409DFD55B8B5",
             "description": "Découvrez les réponses de notre community manager sur le thème \"préjugés\"."
