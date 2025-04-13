@@ -1241,13 +1241,13 @@ klynt.data = {
                     "mediaWidth": 1920,
                     "volume": 1,
                     "scales": true,
-                    "name": "ITW-Conseils.mp4",
+                    "name": "ITW-Conseils",
                     "autoplay": true,
                     "loop": false,
                     "height": "365.00",
                     "id": "190C052F-C9F3-1239-92F7-A9ACEF8EEC2A",
                     "width": "648.99",
-                    "poster": "Medias/Posters/ITW-Conseils.mp4.jpg",
+                    "poster": "https://img.youtube.com/vi/YV2EY7A1snE/maxresdefault.jpg",
                     "syncMaster": true,
                     "mediaHeight": 1080,
                     "transitionIn": {
@@ -1708,13 +1708,13 @@ klynt.data = {
                     "mediaWidth": 1920,
                     "volume": 1,
                     "scales": true,
-                    "name": "ITW-Metier.mp4",
+                    "name": "ITW-Metier",
                     "autoplay": true,
                     "loop": false,
                     "height": "364.87",
                     "id": "F1E7CC85-2FB3-42E1-2501-A8ED8C2B437F",
                     "width": "649.39",
-                    "poster": "Medias/Posters/ITW-Metier.mp4.jpg",
+                    "poster": "https://img.youtube.com/vi/BA67dqqgYeg/maxresdefault.jpg",
                     "syncMaster": true,
                     "mediaHeight": 1080,
                     "transitionIn": {
@@ -2492,43 +2492,36 @@ klynt.data = {
             "tags": "préjugés",
             "duration": 223.338,
             "color": "rgba(0,0,0,1)",
-            "videos": [
-                {
-                    "centerY": "15.81",
-                    "verticalAlign": "middle",
-                    "dataend": "03:43.34",
-                    "zIndex": 27,
-                    "frameRate": null,
-                    "player": true,
-                    "mediaWidth": 1920,
-                    "volume": 1,
-                    "scales": true,
-                    "name": "ITW-Prejuges.mp4",
-                    "autoplay": true,
-                    "loop": false,
-                    "height": "365.00",
-                    "id": "F8103E72-D757-7253-43AA-A9B42D58AA0C",
-                    "width": "648.99",
-                    "poster": "Medias/Posters/ITW-Prejuges.mp4.jpg",
-                    "syncMaster": true,
-                    "mediaHeight": 1080,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "scaleMode": "zoom",
-                    "duration": "03:43.34",
-                    "centerX": "33.19",
-                    "src": [
-                        {
-                            "type": "youtube",
-                            "src": "https://www.youtube.com/watch?v=EEQgaDA1IMY"
-                        }
-                    ],
-                    "horizontalAlign": "center",
-                    "databegin": "00:00.00"
-                }
-            ],
+            "externalVideos": [
+    {
+        "autoplay": true,
+        "verticalAlign": "middle",
+        "dataend": "03:43.34",
+        "poster": "https://img.youtube.com/vi/EEQgaDA1IMY/maxresdefault.jpg",
+        "zIndex": 27,
+        "id": "F8103E72-D757-7253-43AA-A9B42D58AA0C",
+        "mediaHeight": 360,
+        "transitionIn": {
+            "type": "fade",
+            "duration": "1"
+        },
+        "externalId": "EEQgaDA1IMY",
+        "player": true,
+        "horizontalAlign": "center",
+        "syncMaster": true,
+        "volume": 1,
+        "name": "ITW-Prejuges",
+        "url": "https://www.youtube.com/embed/EEQgaDA1IMY",
+        "loop": false,
+        "mediaWidth": 640,
+        "platform": "youtube",
+        "clipBegin": 0,
+        "duration": "03:43.34",
+        "databegin": "00:00.00",
+        "centerX": 41,
+        "centerY": 11
+    }
+],
             "id": "F4B1F2E2-8297-A3B7-5ACE-409DFD55B8B5",
             "description": "Découvrez les réponses de notre community manager sur le thème \"préjugés\"."
         },
@@ -2927,13 +2920,13 @@ klynt.data = {
                     "mediaWidth": 1920,
                     "volume": 1,
                     "scales": true,
-                    "name": "ITW-Defis.mp4",
+                    "name": "ITW-Defis",
                     "autoplay": true,
                     "loop": false,
                     "height": "365.00",
                     "id": "4F513C25-426B-7B5D-6EC9-A99EA255DA96",
                     "width": "649.00",
-                    "poster": "Medias/Posters/ITW-Defis.mp4.jpg",
+                    "poster": "https://img.youtube.com/vi/oU2CSwghD_Y/maxresdefault.jpg",
                     "syncMaster": true,
                     "mediaHeight": 1080,
                     "transitionIn": {
