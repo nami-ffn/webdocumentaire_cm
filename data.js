@@ -72,7 +72,7 @@ klynt.data = {
         "remoteVideosAPILocalBitrate": "best",
         "hasRemoteVideos": false,
         "enableKeyboardNavigation": true,
-        "remoteVideosAPIURL": "http://api.klynt.net/video/klynt-video-api.php",
+        "remoteVideosAPIURL": "https://api.klynt.net/video/klynt-video-api.php",
         "enableScrollNavigation": true
     },
     "miniPlayer": {
