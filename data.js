@@ -830,8 +830,8 @@ klynt.data = {
                     "centerX": "56.00",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ITW-Quotidien.mp4"
+                            "type": "youtube",
+                            "src": "https://youtu.be/vucBK-tLBck"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -1231,8 +1231,8 @@ klynt.data = {
                     "dataend": "03:26.66",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ITW-Conseils.mp4"
+                            "type": "youtube",
+                            "src": "https://youtu.be/YV2EY7A1snE"
                         }
                     ],
                     "zIndex": 27,
@@ -1726,8 +1726,8 @@ klynt.data = {
                     "centerX": "46.54",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ITW-Metier.mp4"
+                            "type": "youtube",
+                            "src": "https://youtu.be/BA67dqqgYeg"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -2521,8 +2521,8 @@ klynt.data = {
                     "centerX": "33.19",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ITW-Prejuges.mp4"
+                            "type": "youtube",
+                            "src": "https://youtu.be/EEQgaDA1IMY"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -2945,8 +2945,8 @@ klynt.data = {
                     "centerX": "42.00",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ITW-Defis.mp4"
+                            "type": "youtube",
+                            "src": "https://youtu.be/oU2CSwghD_Y"
                         }
                     ],
                     "horizontalAlign": "center",
