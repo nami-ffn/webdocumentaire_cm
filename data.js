@@ -831,7 +831,7 @@ klynt.data = {
                     "src": [
                         {
                             "type": "youtube",
-                            "src": "https://youtu.be/vucBK-tLBck"
+                            "src": "https://www.youtube.com/watch?v=vucBK-tLBck"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -1232,7 +1232,7 @@ klynt.data = {
                     "src": [
                         {
                             "type": "youtube",
-                            "src": "https://youtu.be/YV2EY7A1snE"
+                            "src": "https://www.youtube.com/watch?v=YV2EY7A1snE"
                         }
                     ],
                     "zIndex": 27,
@@ -1727,7 +1727,7 @@ klynt.data = {
                     "src": [
                         {
                             "type": "youtube",
-                            "src": "https://youtu.be/BA67dqqgYeg"
+                            "src": "https://www.youtube.com/watch?v=BA67dqqgYeg"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -2522,7 +2522,7 @@ klynt.data = {
                     "src": [
                         {
                             "type": "youtube",
-                            "src": "https://youtu.be/EEQgaDA1IMY"
+                            "src": "https://www.youtube.com/watch?v=EEQgaDA1IMY"
                         }
                     ],
                     "horizontalAlign": "center",
@@ -2946,7 +2946,7 @@ klynt.data = {
                     "src": [
                         {
                             "type": "youtube",
-                            "src": "https://youtu.be/oU2CSwghD_Y"
+                            "src": "https://www.youtube.com/watch?v=oU2CSwghD_Y"
                         }
                     ],
                     "horizontalAlign": "center",
